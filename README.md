@@ -14,7 +14,3 @@
 ![Swift](https://img.shields.io/badge/Swift-white.svg?&style=for-the-badge&logo=Swift&logoColor=#F05138)
 ![iOS](https://img.shields.io/badge/iOS-black.svg?&style=for-the-badge&logo=iOS&logoColor=#000000)
 
-
-# I want to work for...
-
-![Rakuten](https://img.shields.io/badge/Rakuten-red.svg?&style=for-the-badge&logo=Rakuten&black=#BF0000)
