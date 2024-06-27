@@ -5,7 +5,6 @@
 
 # Algorithm
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=oops1537)](https://solved.ac/{handle})
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oops1537)](https://solved.ac/oops1537/)
 
 
